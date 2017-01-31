@@ -1,0 +1,15 @@
+Package: frycook
+Title: Fast And Instant Automated Insights From Your Data
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Douglas", "Pestana", email = "douglas.pestana@remix.institute", role = "cre"),
+    person("Adrian", "Antico", email = "adrian.antico@remix.institute", role = "aut"))
+Description: Serves insights from your data quicker than fast food. Instant
+    exploratory data analysis for real-world business settings. No fluff, no
+    statistical gimmicks. Prepare to be promoted.
+Depends:
+    R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
