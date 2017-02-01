@@ -8,7 +8,7 @@
 #' low_count_levels_removal()
 
 
-function = low_count_levels_removal(data) {
+low_count_levels_removal = function(data) {
 
 # remove factor columns not used in modeling or analysis first:
 
