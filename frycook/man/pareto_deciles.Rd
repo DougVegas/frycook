@@ -4,12 +4,12 @@
 \alias{pareto_deciles}
 \title{Pareto Deciles}
 \usage{
-pareto_deciles(data, x)
+pareto_deciles(data, x, id = NULL)
 }
 \arguments{
 \item{data}{Name of data.frame or data.table}
 
-\item{x}{Name of numeric vector to create Pareto deciles for}
+\item{x}{Name of numeric vector to create Pareto deciles for; must be in quotations ""}
 
 \item{id}{Unique ID of data.frame or data.table to group by}
 }

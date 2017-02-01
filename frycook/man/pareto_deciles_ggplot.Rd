@@ -2,14 +2,14 @@
 % Please edit documentation in R/pareto_deciles.R
 \name{pareto_deciles_ggplot}
 \alias{pareto_deciles_ggplot}
-\title{Pareto Deciles}
+\title{Pareto Deciles Plot}
 \usage{
-pareto_deciles_ggplot(data, x)
+pareto_deciles_ggplot(data, x, id = NULL)
 }
 \arguments{
 \item{data}{Name of data.frame or data.table}
 
-\item{x}{Name of numeric vector to create Pareto deciles for}
+\item{x}{Name of numeric vector to create Pareto deciles for; must be in quotations ""}
 
 \item{id}{Unique ID of data.frame or data.table to group by}
 }
