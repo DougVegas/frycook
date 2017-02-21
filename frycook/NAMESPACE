@@ -3,3 +3,4 @@
 export(low_count_levels_removal)
 export(pareto_deciles)
 export(pareto_deciles_ggplot)
+export(stratified)
